@@ -1,0 +1,10 @@
+Set stubber$Dir <Obey$Dir>
+|
+Set Stubber$Help <Stubber$Dir>.!Help
+Set Stubber$Version "1.05"
+Set Stubber$Web "http://www.arcsite.de/hp/bracke/programming/mtools.html"
+Set Stubber$Title "Stubber"
+Set Stubber$Publisher "Bent Bracke"
+Set Stubber$Description "Creates stubs on the basis of Ada specifikations."
+|
+IconSprites <Stubber$Dir>.!Sprites
