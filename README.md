@@ -7,7 +7,7 @@ The stubs are placed in a Ada body file which will be written into a adb
 directory in the specifikation files parent directory. The adb
 directory is created if it does not exist already.
 
-NOTE: This is a RISC OS app.
+NOTE: This is a RISC OS app and will not work on other platforms.
 
 ## Frontend use
 
